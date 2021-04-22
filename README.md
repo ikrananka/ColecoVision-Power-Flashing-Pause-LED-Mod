@@ -1,1 +1,1 @@
-# ColecoVision-Flashing-LED-Pause-Mod
+# ColecoVision Flashing LED Pause Mod
