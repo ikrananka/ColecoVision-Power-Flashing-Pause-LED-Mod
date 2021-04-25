@@ -26,3 +26,24 @@ A.	The mod is mostly reversable other than the fact that you must drill two larg
 Q.	Can the switch and circuit board be removed for maintenance/troubleshooting?
 
 A.	Yes.  Assuming you don’t use any glue during the installation, which isn’t necessary, then the switch and circuit board can be easily removed.
+
+**The Kit**
+ 
+The installation kit contains the following items:
+1.	ColecoVision Power/Pause LED Mod circuit board.
+2.	Motherboard wire assembly.
+3.	Pause switch wire assembly (includes pause switch).
+4.	Circuit board custom spacer.
+5.	Pause switch nut (used to hold switch and circuit board in place).
+6.	LED holder.
+
+**Tools Needed**
+
+•	Phillips screwdriver
+•	Variable speed electric drill
+•	1/4” drill bit
+•	Step drill bit up to 25/32” (alternatively a step drill bit up to 3/4” and a half round double-cut file)
+•	Anti-static mat with wrist strap (optional)
+•	Soldering iron and solder
+•	Xacto knife (or equivalent)
+•	Tin snips (to cut the bottom RF shield)
