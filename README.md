@@ -39,18 +39,11 @@ The installation kit contains the following items:
 
 ## Tools Needed
 
-•	Phillips screwdriver
-
-•	Variable speed electric drill
-
-•	1/4” drill bit
-
-•	Step drill bit up to 25/32” (alternatively a step drill bit up to 3/4” and a half round double-cut file)
-
-•	Anti-static mat with wrist strap (optional)
-
-•	Soldering iron and solder
-
-•	Xacto knife (or equivalent)
-
-•	Tin snips (to cut the bottom RF shield)
+- Phillips screwdriver
+- Variable speed electric drill
+- 1/4” drill bit
+- Step drill bit up to 25/32” (alternatively a step drill bit up to 3/4” and a half round double-cut file)
+- Anti-static mat with wrist strap (optional)
+- Soldering iron and solder
+- Xacto knife (or equivalent)
+- Tin snips (to cut the bottom RF shield)
