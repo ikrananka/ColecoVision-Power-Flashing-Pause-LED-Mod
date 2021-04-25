@@ -1,11 +1,11 @@
 # ColecoVision Power/Flashing Pause LED Mod
 
-**Introduction**
+##**Introduction**
 
 This mod for the ColecoVision has two functions.  The first is to provide a continuously lit red power LED.  This LED will illuminate whenever the ColecoVision is turned on and not paused.  The second function is to provide a hardwired, physical switch, to pause operation of the ColecoVision allowing you to pause a game at any point and resume play at your leisure.  A unique feature of this mod is that when paused the power/pause LED flashes to indicate that the system is paused.  The rate of flashing is user adjustable from 0.6 to 3.0Hz.  When pause is turned off the flashing LED reverts to being continuously lit (until the system is either paused again or is turned off).
 The pause function is achieved by pulling the WAIT line of the ColecoVision’s Z80 CPU low.  This in effect pauses all Z80 processing and therefore pauses the game you’re playing.  However, the audio is not paused and will continue to emit the last note/tone which can be very annoying.  Therefore, this mod not only allows you to pause the Z80 processor but also disconnects the audio output whenever pause is engaged.
 
-**FAQ**
+##**FAQ**
 
 Q.	Will this work with Super Game Module (SGM1) games?
 
@@ -27,7 +27,7 @@ Q.	Can the switch and circuit board be removed for maintenance/troubleshooting?
 
 A.	Yes.  Assuming you don’t use any glue during the installation, which isn’t necessary, then the switch and circuit board can be easily removed.
 
-**The Kit**
+##**The Kit**
  
 The installation kit contains the following items:
 1.	ColecoVision Power/Pause LED Mod circuit board.
@@ -37,7 +37,7 @@ The installation kit contains the following items:
 5.	Pause switch nut (used to hold switch and circuit board in place).
 6.	LED holder.
 
-**Tools Needed**
+##**Tools Needed**
 
 •	Phillips screwdriver
 
