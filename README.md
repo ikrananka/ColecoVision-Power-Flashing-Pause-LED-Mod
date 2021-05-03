@@ -23,6 +23,10 @@ Q.	Is the mod reversable?
 
 A.	The mod is mostly reversable other than the fact that you must drill two large holes in the ColecoVision’s top housing.  These holes are obviously not reversable.
 
+Q. Can the top and bottom halves of the ColecoVision console shell be separated during system maintenance/troubleshooting?
+
+A. Yes.  A pair of 6-pin Molex connectors ae included in the design that when disconnected from each other allow the top and bottom halves of the ColecoVision console shell to be completely separated from each other.
+
 Q.	Can the switch and circuit board be removed for maintenance/troubleshooting?
 
 A.	Yes.  Assuming you don’t use any glue during the installation, which isn’t necessary, then the switch and circuit board can be easily removed.
@@ -31,13 +35,37 @@ A.	Yes.  Assuming you don’t use any glue during the installation, which isn’
  
 The installation kit contains the following items:
 1.	ColecoVision Power/Pause LED Mod circuit board.
-2.	Motherboard wire assembly.
-3.	Pause switch wire assembly (includes pause switch).
+2.	Motherboard wiring harness.
+3.	Pause switch wiring harness (includes pause switch).
 4.	Circuit board custom spacer.
 5.	Pause switch nut (used to hold switch and circuit board in place).
 6.	LED holder.
 
-## Tools Needed
+## Bill of Materials
+
+Please download and refer to the Bill of Materials contained in this repository.
+
+## Wiring Harnesses
+### Tools Needed
+
+- Soldering iron and solder
+- Wire cutter
+- Wire stripper
+- Crimping tool (I use a [Waldom W-HT-1921 crimping tool](https://www.digikey.com/en/products/detail/gc-electronics/W-HT-1921/26396)).
+
+### Wire
+
+Note that my preference is to use multistrand (7/32) 24AWG wire for this kit.  Nevertheless, 22AWG multistrand wire would also likely work fine.
+
+### Wire Lengths and Connections
+
+Refer to the following wiring diagram and photographs for details.  Use the appropriate crimps (from the Bill of Materials) for wires that are pert of the Molex connectors.  I recommend soldering the wires to the four connections on the back of the rocker switch.
+
+
+
+
+
+## Tools Needed - Installation
 
 - Phillips screwdriver
 - Variable speed electric drill
