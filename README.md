@@ -61,7 +61,7 @@ Note that my preference is to use multistrand (7/32) 24AWG wire for this kit.  N
 
 Refer to the following wiring diagram and photographs for details.  Use the appropriate crimps (from the Bill of Materials) for wires that are part of the Molex connectors.  I recommend soldering the wires to the four connections on the back of the rocker switch.
 
-
+[](https://github.com/ikrananka/ColecoVision-Power-Flashing-Pause-LED-Mod/blob/main/images/Wiring%20Harness.png?raw=true)
 
 
 
