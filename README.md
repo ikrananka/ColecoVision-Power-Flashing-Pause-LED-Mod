@@ -45,7 +45,7 @@ The installation kit contains the following items:
 
 Please download and refer to the Bill of Materials contained in this repository.
 
-## Wiring Harnesses
+## Construction of the Wiring Harnesses
 ### Tools Needed
 
 - Soldering iron and solder
@@ -59,7 +59,7 @@ Note that my preference is to use multistrand (7/32) 24AWG wire for this kit.  N
 
 ### Wire Lengths and Connections
 
-Refer to the following wiring diagram and photographs for details.  Use the appropriate crimps (from the Bill of Materials) for wires that are pert of the Molex connectors.  I recommend soldering the wires to the four connections on the back of the rocker switch.
+Refer to the following wiring diagram and photographs for details.  Use the appropriate crimps (from the Bill of Materials) for wires that are part of the Molex connectors.  I recommend soldering the wires to the four connections on the back of the rocker switch.
 
 
 
