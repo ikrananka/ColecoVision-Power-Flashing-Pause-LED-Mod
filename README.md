@@ -66,7 +66,21 @@ Refer to the following wiring diagram and photographs for details.  Use the appr
 
 ![](https://github.com/ikrananka/ColecoVision-Power-Flashing-Pause-LED-Mod/blob/main/images/Wiring%20Harness.png?raw=true)
 
+## The Custom Spacer
 
+dsfgsdfsdgsdg
+
+## The Pause Switch Nut
+
+The pause switch nut is included with the purchase of the Radio Shack DPDT switch from the bill of materials.  However, the nut needs to be modified slightly by lightly sanding down the ridges that will press against the PCB when installed.  To do this I typically use 300 grit sandpaper and hold the nut flat as shown in the first photo below.  I then slide the nut over the sandpaper in a circular motion while pressing down.  The second photo below shows the finished article and should give you a good idea of how much of the ridges you need to sand off.  Note that if you don't sand down these ridges then you will find that you won't be able to screw the nut onto the switch when it is installed in the ColecoVision with the spacer and PCB installed.  Sanding down the ridges allows the nut to get close enough to the thread on the switch so that it can be tightened up.
+
+Ready to sand the nut:
+
+Photo here......
+
+Finished sanding:
+
+Photo here......
 
 ## Tools Needed - Installation
 
