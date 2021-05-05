@@ -48,6 +48,10 @@ The installation kit contains the following items:
 
 Please download and refer to the Bill of Materials contained in this repository.
 
+##LED Installation
+
+Note that when installing the LED onto the PCB it must be slightly raised above the PCB surface..........
+
 ## Construction of the Wiring Harnesses
 ### Tools Needed
 
@@ -88,6 +92,6 @@ Refer to the installation instructions pdf included with this repository.
 
 ##Pause Flashing Frequency
 
-The installation instructions include details of how to adjust the flashing frequency.  I have also provided video to illustrate what different flashing frequncies look like.  You can view the video [here](https://youtu.be/l38Kgi8KPcs)
+The installation instructions include details of how to adjust the flashing frequency.  I have also provided video to illustrate what different flashing frequncies look like.  You can view the video [here](https://youtu.be/l38Kgi8KPcs).
 
 
