@@ -80,7 +80,7 @@ The custom spacer provides support under the PCB when tightening the nut that ho
 
 ![](https://github.com/ikrananka/ColecoVision-Power-Flashing-Pause-LED-Mod/blob/main/images/Custom_Spacer.png?raw=true)
 
-You can either download the design from [thingiverse.com]((https://www.thingiverse.com/thing:3446247) or from the ["Custom_Spacer.zip"](Custom_Spacer.zip) file included in this repository.
+You can either download the design from [thingiverse.com](https://www.thingiverse.com/thing:3446247) or from the ["Custom_Spacer.zip"](Custom_Spacer.zip) file included in this repository.
 
 ## The Pause Switch Nut
 
