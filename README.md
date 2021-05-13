@@ -37,7 +37,7 @@ A.	Yes.  Assuming you don’t use any glue during the installation, which isn’
 ## The Kit
  
 The installation kit contains the following items:
-1.	ColecoVision Power/Pause LED Mod circuit board.
+1.	ColecoVision Power/Pause LED Mod PCB.
 2.	Motherboard wiring harness.
 3.	Pause switch wiring harness (includes pause switch).
 4.	Circuit board custom spacer.
@@ -48,9 +48,13 @@ The installation kit contains the following items:
 
 Please download and refer to the [Bill of Materials](https://github.com/ikrananka/ColecoVision-Power-Flashing-Pause-LED-Mod/blob/main/Bill%20of%20Materials%20v1.0.pdf) contained in this repository.
 
-## LED Installation
+## Printed Circuit Board
 
-Note that when installing the LED onto the PCB it must be slightly raised above the PCB surface..........
+Included in this repository are the PCB schematic and board files created using Eagle v9.1.0.  I have also included Gerber files that are suitable for ordering PCBs from [JLCPCB](https://jlcpcb.com).  If you plan on ordering boards from other PCB manufacturers then you'll need to create new gerber files that adhere to that manufacturer's requirements.
+
+### LED Installation
+
+Note that the LED should be soldered onto the underside of the PCB, i.e. the opposite side to all of the other components.  Critically, the LED **MUST** be slightly raised above the PCB surface as shown below.  I use small pieces of an old cut-up credit card style hotel key to do this as shown.  The thickness of these plastic parts is 
 
 ## Construction of the Wiring Harnesses
 ### Tools Needed
