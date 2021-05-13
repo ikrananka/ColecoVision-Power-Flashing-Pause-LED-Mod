@@ -78,7 +78,7 @@ ID = 20.5mm
 OD = 26.5mm
 Thickness = 3mm
 
-You can either download the design from the following link or from the ["Custom Spacer.zip"](Custom Spacer.zip) file included in this repository.
+You can either download the design from the following link or from the ["Custom Spacer.zip"](Custom Spacer.zip "Alt text") file included in this repository.
 
 ![](https://www.thingiverse.com/thing:3446247)
 
