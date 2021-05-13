@@ -100,6 +100,6 @@ Refer to the [installation instructions pdf](https://github.com/ikrananka/Coleco
 
 ## Pause Flashing Frequency
 
-The installation instructions include details of how to adjust the flashing frequency.  I have also provided video to illustrate what different flashing frequncies look like.  You can view the video [here](https://youtu.be/l38Kgi8KPcs).
+The installation instructions include details of how to adjust the flashing frequency.  I have also provided a video to illustrate what different flashing frequncies look like.  You can view the video [here](https://youtu.be/l38Kgi8KPcs).
 
 
