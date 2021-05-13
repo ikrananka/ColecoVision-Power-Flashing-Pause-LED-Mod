@@ -96,7 +96,7 @@ Photo here......
 
 ## Installation Instructions
 
-Refer to the installation instructions pdf included with this repository.
+Refer to the [installation instructions pdf](https://github.com/ikrananka/ColecoVision-Power-Flashing-Pause-LED-Mod/blob/main/Installation%20Instructions%20v1.1.pdf) included with this repository.
 
 ## Pause Flashing Frequency
 
