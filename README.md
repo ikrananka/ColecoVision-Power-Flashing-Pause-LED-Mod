@@ -46,7 +46,7 @@ The installation kit contains the following items:
 
 ## Bill of Materials
 
-Please download and refer to the Bill of Materials contained in this repository.
+Please download and refer to the [Bill of Materials](https://github.com/ikrananka/ColecoVision-Power-Flashing-Pause-LED-Mod/blob/main/Bill%20of%20Materials%20v1.0.pdf) contained in this repository.
 
 ## LED Installation
 
