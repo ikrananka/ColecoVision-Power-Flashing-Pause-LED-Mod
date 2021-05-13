@@ -72,13 +72,13 @@ Refer to the following wiring diagram and photographs for details.  Use the appr
 
 ## The Custom Spacer
 
-The custom spacer provides support under the PCB when tightening the nut that holds the rocker switch and PCB in place.  It is simply a 3D printed circular spacer with the following dimension:
+The custom spacer provides support under the PCB when tightening the nut that holds the rocker switch and PCB in place.  It is simply a 3D printed circular spacer/washer with the following dimensions:
 
 ID = 20.5mm
 OD = 26.5mm
 Thickness = 3mm
 
-You can either download the design from the following link or from the ["Custom Spacer.zip"](Custom_Spacer.zip "Alt text") file included in this repository.
+You can either download the design from the following link or from the ["Custom_Spacer.zip"](Custom_Spacer.zip) file included in this repository.
 
 ![](https://www.thingiverse.com/thing:3446247)
 
