@@ -80,7 +80,7 @@ The custom spacer provides support under the PCB when tightening the nut that ho
 
 You can either download the design from the following link or from the ["Custom_Spacer.zip"](Custom_Spacer.zip) file included in this repository.
 
-[](https://www.thingiverse.com/thing:3446247)
+[https://www.thingiverse.com/thing:3446247](https://www.thingiverse.com/thing:3446247)
 
 ## The Pause Switch Nut
 
