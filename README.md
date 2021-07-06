@@ -54,7 +54,9 @@ Included in this repository are the PCB schematic and board files created using 
 
 ### LED Installation
 
-Note that the LED should be soldered onto the underside of the PCB, i.e. the opposite side to all of the other components.  Critically, the LED **MUST** be slightly raised above the PCB surface as shown below.  I use small pieces of an old cut-up credit card style hotel key to do this as shown.  The thickness of these plastic parts is 
+Note that the LED should be soldered onto the underside of the PCB, i.e. the opposite side to all of the other components.  Critically, the LED **MUST** be slightly raised by 0.75mm (30 thou) above the PCB surface as shown below.  I use small pieces of plastic card (0.75mm thick) to do this, held in place with sticky tack, and then solder the LED in place.  Don't forget to remove the pieces of plastic after soldering the LED.
+
+
 
 ## Construction of the Wiring Harnesses
 ### Tools Needed
