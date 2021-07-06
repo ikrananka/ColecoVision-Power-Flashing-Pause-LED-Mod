@@ -50,7 +50,7 @@ Please download and refer to the [Bill of Materials](https://github.com/ikranank
 
 ## Printed Circuit Board
 
-Included in this repository are the PCB schematic and board files created using Eagle v9.1.0.  I have also included Gerber files that are suitable for ordering PCBs from [JLCPCB](https://jlcpcb.com).  If you plan on ordering boards from other PCB manufacturers then you'll need to create new gerber files that adhere to that manufacturer's requirements.
+Included in this repository are the PCB schematic and board files created using Eagle v9.1.0.  I have also included Gerber files that are suitable for ordering PCBs from [JLCPCB](https://jlcpcb.com).  If you plan on ordering boards from other PCB manufacturers then you may need to create new gerber files that adhere to that manufacturer's requirements.
 
 ### LED Installation
 
